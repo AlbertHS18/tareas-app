@@ -58,14 +58,23 @@ npm run start
 
 ## Imagenes de prueba:
 
-
+- Estos son los input para escribir las tareas.(No pueden dejarse vacíos).
+  
 [![inputs.jpg](https://i.postimg.cc/3JXHm45w/inputs.jpg)](https://postimg.cc/N5jVw00h)
+
+- Botones de interacción para diferentes secciones, un marcador de tareas y botón para borrar las tareas completadas.
 
 [![botones.jpg](https://i.postimg.cc/m2fsP3nq/botones.jpg)](https://postimg.cc/V5RTTtmB)
 
+- Visualización  de las tareas activas.
+
 [![activos.jpg](https://i.postimg.cc/W1scnNTw/activos.jpg)](https://postimg.cc/gnt7cPwx)
 
+- Visualización  de las tareas completadas.
+
 [![completados.jpg](https://i.postimg.cc/RZG5pk05/completados.jpg)](https://postimg.cc/687my1RY)
+
+- Visualización  de todas las tareas.
 
 [![todos.jpg](https://i.postimg.cc/8krGkXZM/todos.jpg)](https://postimg.cc/XX3mQLSY)
 
