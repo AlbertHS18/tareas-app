@@ -54,3 +54,14 @@ cd tareas_App npm install
 ```bash
 npm run start
 ```
+---
+
+[url=https://postimg.cc/gnt7cPwx][img]https://i.postimg.cc/gnt7cPwx/activos.jpg[/img][/url]
+
+[url=https://postimg.cc/V5RTTtmB][img]https://i.postimg.cc/V5RTTtmB/botones.jpg[/img][/url]
+
+[url=https://postimg.cc/687my1RY][img]https://i.postimg.cc/687my1RY/completados.jpg[/img][/url]
+
+[url=https://postimg.cc/N5jVw00h][img]https://i.postimg.cc/N5jVw00h/inputs.jpg[/img][/url]
+
+[url=https://postimg.cc/XX3mQLSY][img]https://i.postimg.cc/XX3mQLSY/todos.jpg[/img][/url]
