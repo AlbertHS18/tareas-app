@@ -56,12 +56,16 @@ npm run start
 ```
 ---
 
-[url=https://postimg.cc/gnt7cPwx][img]https://i.postimg.cc/gnt7cPwx/activos.jpg[/img][/url]
+## Imagenes de prueba:
 
-[url=https://postimg.cc/V5RTTtmB][img]https://i.postimg.cc/V5RTTtmB/botones.jpg[/img][/url]
 
-[url=https://postimg.cc/687my1RY][img]https://i.postimg.cc/687my1RY/completados.jpg[/img][/url]
+[![inputs.jpg](https://i.postimg.cc/3JXHm45w/inputs.jpg)](https://postimg.cc/N5jVw00h)
 
-[url=https://postimg.cc/N5jVw00h][img]https://i.postimg.cc/N5jVw00h/inputs.jpg[/img][/url]
+[![botones.jpg](https://i.postimg.cc/m2fsP3nq/botones.jpg)](https://postimg.cc/V5RTTtmB)
 
-[url=https://postimg.cc/XX3mQLSY][img]https://i.postimg.cc/XX3mQLSY/todos.jpg[/img][/url]
+[![activos.jpg](https://i.postimg.cc/W1scnNTw/activos.jpg)](https://postimg.cc/gnt7cPwx)
+
+[![completados.jpg](https://i.postimg.cc/RZG5pk05/completados.jpg)](https://postimg.cc/687my1RY)
+
+[![todos.jpg](https://i.postimg.cc/8krGkXZM/todos.jpg)](https://postimg.cc/XX3mQLSY)
+
